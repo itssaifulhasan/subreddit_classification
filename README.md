@@ -16,6 +16,5 @@ Based on the analysis results we see that TF-IDF with a logistic Regression mode
 ## Recommendation
 From the findings of the TF-IDF with a logistic Regression model I have come to these recommendations:
 
-1. Our model delivers expected results with 88% accuracy to segregate posts from 'movie' subreddit and 'music' subreddit.
 1. For maximizing accuracy score we need to minimize the false negative and false positive scores.
 2. To improve the accuracy score we need try to train the model with more data and tuining more hyparameters.
