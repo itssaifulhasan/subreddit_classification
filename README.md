@@ -1,6 +1,6 @@
 ## Application Programming Interface (API) & Natural Language Processing (NLP)
 
-Saiful Hasan [LinkedIn](https://www.linkedin.com/in/saifulhasan22/)
+**Saiful Hasan** [LinkedIn](https://www.linkedin.com/in/saifulhasan22/)
 
 ## Problem Statement
 We aim to build a model that would segregate the subreddits based on their title text and would predict which subreddit it is. We have chosen two subreddits - 'movie' and 'music' for our analysis. As a part of this study, we would try different classification models and select the best predictive model. We have chosen to use the classification metric, accuracy score to select the best performing model.
